@@ -1,5 +1,4 @@
-### 👋 Hello world
-
-<img src='./profile/stats.svg'>
-
-<img src='./octocat.gif' width='200"'>
+<p align="center">
+  <img src="./profile/stats.svg" width="45%">
+  <img src="./octocat.gif" width="200">
+</p>
