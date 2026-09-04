@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Quentin Gruber, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 249, Total Commits  : 27521, Total PRs: 1340, Total PRs Merged: 1068, Merged PRs Percentage: 79.70, Total PRs Reviewed: 66, Total Issues: 893, PRs Commented: 688, PRs Reviewed: 612, Issues Commented: 182, Contributed to (last year): 16</desc>
+        <desc id="descId">Total Stars Earned: 249, Total Commits  : 27542, Total PRs: 1340, Total PRs Merged: 1070, Merged PRs Percentage: 79.85, Total PRs Reviewed: 67, Total Issues: 893, PRs Commented: 689, PRs Reviewed: 613, Issues Commented: 182, Contributed to (last year): 16</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 16.87836693346742;
+        stroke-dashoffset: 16.878366929610365;
       }
     }
   
@@ -225,7 +225,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >79.70 %</text>
+      >79.85 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -240,7 +240,7 @@
         x="224.01"
         y="12.5"
         data-testid="reviews"
-      >66</text>
+      >67</text>
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
@@ -270,7 +270,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_commented"
-      >688</text></a>
+      >689</text></a>
     </g>
   </g><g transform="translate(0, 200)">
     <g class="stagger" style="animation-delay: 1650ms" transform="translate(25, 0)"><a href="https://github.com/search?q=reviewed-by%3AQuentinGruber+-author%3AQuentinGruber&amp;type=pullrequests">
@@ -285,7 +285,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_reviewed"
-      >612</text></a>
+      >613</text></a>
     </g>
   </g><g transform="translate(0, 225)">
     <g class="stagger" style="animation-delay: 1800ms" transform="translate(25, 0)"><a href="https://github.com/search?q=commenter%3AQuentinGruber+-author%3AQuentinGruber&amp;type=issues">
