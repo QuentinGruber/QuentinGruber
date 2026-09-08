@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Quentin Gruber, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 249, Total Commits  : 27549, Total PRs: 1340, Total PRs Merged: 1070, Merged PRs Percentage: 79.85, Total PRs Reviewed: 67, Total Issues: 893, PRs Commented: 689, PRs Reviewed: 613, Issues Commented: 182, Contributed to (last year): 16</desc>
+        <desc id="descId">Total Stars Earned: 249, Total Commits  : 27564, Total PRs: 1342, Total PRs Merged: 1070, Merged PRs Percentage: 79.73, Total PRs Reviewed: 67, Total Issues: 893, PRs Commented: 689, PRs Reviewed: 613, Issues Commented: 182, Contributed to (last year): 16</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 16.878366928572856;
+        stroke-dashoffset: 16.878366911661868;
       }
     }
   
@@ -180,7 +180,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >27.5k</text>
+      >27.6k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -225,7 +225,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >79.85 %</text>
+      >79.73 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
