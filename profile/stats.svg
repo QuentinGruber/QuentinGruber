@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Quentin Gruber, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 250, Total Commits  : 27598, Total PRs: 1345, Total PRs Merged: 1074, Merged PRs Percentage: 79.85, Total PRs Reviewed: 71, Total Issues: 893, PRs Commented: 691, PRs Reviewed: 615, Issues Commented: 182, Contributed to (last year): 16</desc>
+        <desc id="descId">Total Stars Earned: 250, Total Commits  : 27602, Total PRs: 1345, Total PRs Merged: 1074, Merged PRs Percentage: 79.85, Total PRs Reviewed: 72, Total Issues: 893, PRs Commented: 692, PRs Reviewed: 616, Issues Commented: 182, Contributed to (last year): 16</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 16.831669111516764;
+        stroke-dashoffset: 16.83166911081963;
       }
     }
   
@@ -247,7 +247,7 @@
         x="224.01"
         y="12.5"
         data-testid="reviews"
-      >71</text>
+      >72</text>
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
@@ -277,7 +277,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_commented"
-      >691</text></a>
+      >692</text></a>
     </g>
   </g><g transform="translate(0, 200)">
     <g class="stagger" style="animation-delay: 1650ms" transform="translate(25, 0)"><a href="https://github.com/search?q=reviewed-by%3AQuentinGruber+-author%3AQuentinGruber&amp;type=pullrequests">
@@ -292,7 +292,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_reviewed"
-      >615</text></a>
+      >616</text></a>
     </g>
   </g><g transform="translate(0, 225)">
     <g class="stagger" style="animation-delay: 1800ms" transform="translate(25, 0)"><a href="https://github.com/search?q=commenter%3AQuentinGruber+-author%3AQuentinGruber&amp;type=issues">
