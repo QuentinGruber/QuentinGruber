@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Quentin Gruber, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 257, Total Commits  : 27825, Total PRs: 1358, Total PRs Merged: 1084, Merged PRs Percentage: 79.82, Total PRs Reviewed: 71, Total Issues: 894, PRs Commented: 694, PRs Reviewed: 617, Issues Commented: 183, Contributed to (last year): 15</desc>
+        <desc id="descId">Total Stars Earned: 257, Total Commits  : 27831, Total PRs: 1359, Total PRs Merged: 1085, Merged PRs Percentage: 79.84, Total PRs Reviewed: 71, Total Issues: 894, PRs Commented: 694, PRs Reviewed: 617, Issues Commented: 183, Contributed to (last year): 15</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 16.594120620876883;
+        stroke-dashoffset: 16.594120614377363;
       }
     }
   
@@ -232,7 +232,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >79.82 %</text>
+      >79.84 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
